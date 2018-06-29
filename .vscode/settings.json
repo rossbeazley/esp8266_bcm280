@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/rdlb/.platformio/penv/bin:/home/rdlb/.platformio/penv:/home/rdlb/bin:/opt/java/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/opt/google/android-sdk/platform-tools/",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp"
+    }
+}
